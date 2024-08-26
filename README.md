@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aliwah1403&theme=transparent&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aliwah1403&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **Aliwah1403/Aliwah1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
